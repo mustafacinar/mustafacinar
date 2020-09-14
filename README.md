@@ -5,8 +5,11 @@
 -->
 Here are some ideas to get you started:
 
-### I’m currently working on 👋
-- 🔭 Doktar Digital Agriculture Solutions
+## 💼 Job
+
+I'm working as a Software Engineer in [Doktar Digital Agriculture Solutions](https://doktar.com)
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
