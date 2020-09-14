@@ -2,8 +2,9 @@
 
 <!--
 **mustafacinar/mustafacinar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+- 💬 Ask me about ...
 Here are some ideas to get you started:
+-->
 
 ## 💼 Job
 
@@ -22,12 +23,14 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <img src="https://github.com/github/explore/blob/master/topics/docker/docker.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/dotnet/dotnet.png?raw=true" height="32" />
 
+## 📫 How to reach me
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/him
+You can find and get in touch with me on below accounts!
+
+[![Linkedin Badge](https://img.shields.io/badge/polatengin-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mstfcinar/)
+
+
+
+
 
 
