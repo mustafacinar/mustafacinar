@@ -27,7 +27,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 You can find and get in touch with me on below accounts!
 
-[![Linkedin Badge](https://img.shields.io/badge/polatengin-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mstfcinar/)
+[![Linkedin Badge](https://img.shields.io/badge/mustafacinar-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mstfcinar/)
 
 
 
