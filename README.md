@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-![](https://komarev.com/ghpvc/?username=mustafacinar&color=green)
+![](https://komarev.com/ghpvc/?username=mustafacinar&color=red)
 
 ## 💼 Job
 
