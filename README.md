@@ -36,7 +36,9 @@ You can find and get in touch with me on below accounts!
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafacinar&show_icons=true&locale=en" alt="mustafacinar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafacinar&" alt="mustafacinar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafacinar" alt="mustafacinar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mustafacinar" alt="mustafacinar" /></p>
+
 
 
 
