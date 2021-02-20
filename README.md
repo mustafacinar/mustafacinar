@@ -6,6 +6,8 @@
 Here are some ideas to get you started:
 -->
 
+![](https://komarev.com/ghpvc/?username=mustafacinar)
+
 ## 💼 Job
 
 I'm working as a Software Engineer in [Doktar Digital Agriculture Solutions](https://doktar.com)
