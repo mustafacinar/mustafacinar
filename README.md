@@ -36,7 +36,7 @@ You can find and get in touch with me on below accounts!
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafacinar&show_icons=true&locale=en" alt="ylmrdm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ylmrdm&" alt="ylmrdm" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafacinar&" alt="ylmrdm" /></p>
 
 
 
