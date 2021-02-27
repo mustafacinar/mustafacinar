@@ -27,7 +27,7 @@ src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c9
 
 ## 📚 I’m currently learning
 
-<img src="https://github.com/github/explore/blob/master/topics/docker/docker.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/dotnet/dotnet.png?raw=true" height="32" />
+<img src="https://github.com/github/explore/blob/main/topics/docker/docker.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/dotnet/dotnet.png?raw=true" height="32" />
 
 ## 📫 How to reach me
 
