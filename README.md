@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ## 💼 Job
 
-I'm working as a Software Engineer in [Doktar Digital Agriculture Solutions](https://doktar.com)
+I'm working as a Software Engineer in [Andromedy Digital Solutions](https://andromedy.com)
 
 
 
